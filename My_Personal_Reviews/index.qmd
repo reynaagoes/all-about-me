@@ -3,12 +3,11 @@ Berikut cara saya melakukan review: mengguan chatGPT, saya mengattach [file prom
 
 ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
 
-# Hasil Self-Assessment UTS (URL: ii-2100.github.io/all-about-me)
 
 ## Identifikasi
 
-* Nama & NIM penulis: **Armein Z. R. Langi – 131902360** (tertera di halaman depan portofolio). ([II 2100][1])
-* Penilai: **Self-assessment (Armein Z. R. Langi)**
+* Nama & NIM penulis: **Muhammad Reyna Athallah Agoes - 18224112** (tertera di halaman depan portofolio). ([II 2100][1])
+* Penilai: **Self-assessment (Muhammad Reyna Athallah Agoes)**
 * Catatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia. ([II 2100][1])
 
 ## Tinjauan Umum

@@ -1,7 +1,7 @@
-# Hai, Halo , Semua {.unnumbered}
+# Hai, Halo, Kenalan dengan Aku Yok ! {.unnumbered}
 
-![About Me](images/AZRL.png){width=950%}
+![](images/muka_gw.jpg){width=90%}
 
-Muhammad Reyna Athallah Agoes
+Perkenalkan , Muhammad Reyna Athallah Agoes mahasiswa di Sekolah Teknik Elektro dan Informatika.ITB angkatan 2024.
 
-Market Anthusiast, Kinda Pruvate & Introvert People
+**Sayangi Orang Sekitarmu dan Maknai Hidup Lebih Dalam**
