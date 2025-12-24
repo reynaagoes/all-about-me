@@ -1,7 +1,33 @@
-## UAS-4 My Knowledge
+# UAS-4 My Knowledge
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+**VALORISE dan Penyelesaian Paradoks Pendidikan Rekayasa**
+
+![Valorize Learning](../images/5forces.png)
+
+Untuk mengajarkan paradigma TISE yang kompleks, metode pedagogis konvensional tidak memadai. Oleh karena itu, saya mengembangkan **VALORISE**. Ini adalah metodologi pedagogis TISE yang dirancang untuk menyelesaikan "Paradoks Pendidikan Ilmu Rekayasa".
+
+Paradoksnya adalah ini: Bagaimana kita bisa menggunakan alat pemberdayaan mesin yang kuat (seperti AI generatif) tanpa *melemahkan* pemberdayaan manusia (Agensi, *Self-Authorship*)? Jika AI memberi siswa semua jawaban, mesin menjadi lebih pintar, tetapi siswa tidak.^10^ Ini adalah kegagalan pedagogis.
+
+VALORISE menyelesaikan ini dengan dua komponen utama: struktur kurikulum dan desain agen pedagogis.
+
+1.  **Struktur Kurikulum (Peta ASTF):**
+
+    -   **Peta Pengetahuan:** Ini bukanlah daftar topik acak. Ia adalah **Lapisan Fundamental (F) dan Teknologi (T)** dari **Arsitektur ASTF**.^3^ Siswa harus terlebih dahulu memahami prinsip-prinsip dasar: fisika "Energon" ^4^, anatomi mesin PSKVE ^3^, dan psikologi TISE 2.0 (AQ, Agensi, Penebusan).^1^
+
+    -   **Peta Aplikasi:** Ini adalah **Lapisan Aplikasi (A) dan Sistem (S)** dari **ASTF**.^3^ Siswa harus menerapkan "peta pengetahuan" mereka untuk merancang dan membangun sistem nyata (artefak TISE) yang memecahkan masalah pemangku kepentingan yang nyata.^10^
+
+2.  **Proses Validasi (W-Model & PICOC):**
+
+    -   Pembelajaran TISE tidak linear; ia mengikuti proses **W-Model**.^3^ Siswa mulai di kiri atas (Aplikasi - masalah), turun ke kiri bawah (Fundamental - riset prinsip) untuk mengisi "peta pengetahuan" mereka. Kemudian, mereka naik di sisi kanan (F $\rightarrow$ T $\rightarrow$ S $\rightarrow$ A) untuk membangun solusi di "peta aplikasi" mereka.
+
+    -   Untuk *membuktikan* penguasaan, siswa harus menggunakan **PICOC Berlapis** (*Layered PICOC*).^3^ Mereka harus membuat "rantai bukti" yang tak terputus, memvalidasi klaim mereka di setiap lapisan ASTF: *Outcome* di lapisan F (prinsip baru terbukti), *Outcome* di lapisan T (teknologi baru lebih efisien), *Outcome* di lapisan S (sistem baru lebih andal), dan *Outcome* di lapisan A (aplikasi baru lebih memuaskan pengguna).
+
+3.  **Penyelesaian Paradoks (Pemihakan pada Pemberdayaan Manusia):**
+
+    -   Inilah inti dari VALORISE. Agen PUDAL (PSA) yang membantu siswa belajar dirancang dengan **"Anti-Answer Constraint"**.^10^
+
+    -   Ini adalah pemihakan desain yang disengaja. **D-Agent** (*Decision-making*) dari sistem PUDAL *dilarang* memberikan jawaban yang efisien (pemberdayaan mesin). Sebaliknya, ia *diwajibkan* secara etis dan pedagogis untuk memprioritaskan intervensi (*scaffolding*) yang membangun **Agensi** dan **Self-Authorship** siswa (pemberdayaan manusia).^2^
+
+    -   Agen VALORISE tidak akan menjawab, "Apa jawabannya?" Sebaliknya, ia akan merespons dengan *prompt* reflektif TISE 2.0 ^1^: "Itu tantangan yang menarik. Apa yang telah Anda coba? Kekuatan apa dari diri Anda yang dapat Anda gunakan untuk meresponsnya?"
+
+Dengan demikian, VALORISE menggunakan AI bukan untuk menggantikan pemikiran, tetapi untuk *memprovokasi* **Penalaran Otobiografis**, memaksa siswa untuk menjadi **Protagonis-Penulis** dari pembelajaran mereka sendiri. Ini adalah pemihakan radikal, dan perlu, pada pemberdayaan manusia di era AI.
