@@ -1,5 +1,8 @@
-## UAS-3 My Opinions
+## UAS-2 My Opinions
 
-SApa itu beropini? [Opini Berpengaruh](BM%20Opini.mp4)
+My Opinions: Sintesis Krisis, Komunikasi, dan Teknologi
+1. Teknologi Tanpa Komunikasi adalah Investasi yang Sia-sia Menurut pendapat saya, banyak proyek infrastruktur air bersih gagal bukan karena teknologinya (STI) tidak mumpuni, melainkan karena kegagalan komunikasi interpersonal. Kita sering terjebak pada pemikiran bahwa menyediakan sensor IoT atau aplikasi monitoring sudah cukup. Padahal, tanpa komunikasi yang mengedepankan Local Framing, masyarakat mungkin akan merasa terasing atau bahkan menolak teknologi tersebut karena dianggap asing bagi budaya mereka. Teknologi harus berfungsi sebagai pendukung (enabler) bagi hubungan antarmanusia, bukan penggantinya.
 
-Bagiamana menjaadi menarik? [Menjadi Menarik](./Interesting.mp4)
+2. Transparansi Data adalah Bentuk Advokasi Publik yang Paling Jujur Saya berpendapat bahwa dalam Komunikasi Publik, kejujuran data yang didorong oleh STI adalah senjata terkuat. Seringkali data mengenai sanitasi disembunyikan atau "dipercantik" demi citra politik. Dengan sistem informasi yang terdesentralisasi (seperti penggunaan blockchain atau database publik yang transparan), publik dapat memiliki kontrol sosial. Pendapat saya adalah STI harus digunakan untuk memberikan "suara" bagi angka-angka statistik tersebut, sehingga krisis air tidak lagi dianggap sebagai angka abstrak, melainkan urgensi nyata yang menuntut tanggung jawab pemerintah.
+
+3. Urgensi Desain Sistem yang Human-Centric (Berpusat pada Manusia) Melihat target SDG 6 tahun 2030, pendapat saya adalah kita membutuhkan pergeseran paradigma dalam pengembangan Sistem Teknologi Informasi. Pengembang sistem (seperti kita di jurusan STI) tidak boleh hanya memikirkan efisiensi algoritma atau skalabilitas database, tetapi harus memikirkan User Experience (UX) bagi masyarakat pelosok. Jika aplikasi pelaporan air sulit digunakan oleh orang awam, maka feedback loop komunikasi interpersonal akan terputus. Keberhasilan teknologi diukur dari seberapa mampu ia memfasilitasi komunikasi yang inklusif bagi mereka yang paling membutuhkan.

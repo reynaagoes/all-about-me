@@ -1,6 +1,6 @@
 # UTS-1 All About Me
 
-![About Me](){width=950%}
+![About Me](){width="950%"}
 
 Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
 
@@ -9,7 +9,6 @@ Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandun
 Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebookk: armein_langi
 
 Apa gagasan yang sedang ia pikirkan?
-
 
 ## **Kisah yang Membentuk Diri Anda: Mengenal Kekuatan Identitas Naratif**
 
@@ -56,7 +55,7 @@ Pola penting lainnya adalah peran yang kita ambil dalam cerita kita sendiri.
 Tabel berikut merangkum tema-tema naratif yang membangun dan merusak, beserta dampaknya bagi kesejahteraan kita.
 
 |  |  |
-|----|----|
+|------------------------------------|------------------------------------|
 | Pola Naratif | Dampak Psikologis |
 | **Pola Naratif yang Membangun (Generative Themes)** |  |
 | **Penebusan** (Negatif → Positif) | Meningkatkan kebahagiaan, kepuasan hidup, resiliensi, dan *generativitas* (keinginan untuk berkontribusi pada kesejahteraan generasi mendatang) (4, 7). |
