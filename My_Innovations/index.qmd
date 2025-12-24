@@ -1,8 +1,5 @@
 # UAS-3 My Innovations
-
-![PUDAL](../images/PUDAL.png)
-
-**Judul: TISE 2.0: Arsitektur "Teater Kerja" Agentik**
+**New Sanitation, Bright World**
 
 1. "H2O-Talk": Sistem Informasi Berbasis Voice-AI & Bahasa Lokal
 Inovasi ini bertujuan untuk mengatasi hambatan literasi dan teknologi dalam Komunikasi Interpersonal.
